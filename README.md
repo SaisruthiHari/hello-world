@@ -1,2 +1,3 @@
 # hello-world
-my first repository in github
+My first repository in github.
+I am currently doing front end nanodegree program at udacity.
